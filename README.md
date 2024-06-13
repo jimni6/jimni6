@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java, Angular, Docker**
 
-- 👯 I’m looking to collaborate on **whatever you want**
+- 👯 I’m looking to collaborate on **everything**
 
 - 👨‍💻 All of my projects are available at [https://jimmyni.fr/](https://jimmyni.fr/)
 
