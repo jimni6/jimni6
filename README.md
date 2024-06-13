@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi 👋, I'm Jimmy :)
+android  bash  c  cplusplus  css3  docker  firebase  flutter  git  go  hexo  html5  java  javascript  jenkins  kotlin  kubernetes  linux  mongodb mysql  nginx  nodejs  postgresql  python  react  reactnative  spring  vuejs  webpack
 <!--
 **jimni6/jimni6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
